@@ -1,0 +1,27 @@
+{
+  "name": "currenaxt",
+  "version": "1.0.0",
+  "description": "A currency module that allows you to fetch the values of Turkish Lira in Dollars and Euros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "exchange",
+    "rates",
+    "api",
+    "forex",
+    "dollar",
+    "doviz api",
+    "kur api",
+    "doviz kuru api",
+    "doviz kuru"
+  ],
+  "author": "Queaxtra",
+  "license": "MIT",
+  "dependencies": {
+    "cross-fetch": "^4.0.0",
+    "dotenv": "^16.3.1"
+  }
+}
