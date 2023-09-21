@@ -1,6 +1,6 @@
 {
   "name": "currenaxt",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A currency module that allows you to fetch the values of Turkish Lira in Dollars and Euros.",
   "main": "index.js",
   "scripts": {
